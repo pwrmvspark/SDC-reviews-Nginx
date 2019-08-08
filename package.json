@@ -1,0 +1,19 @@
+{
+  "name": "sdc-reviews-nginx",
+  "version": "1.0.0",
+  "description": "nginx server to load balance between multiple AWS EC2 instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwrmvspark/SDC-reviews-Nginx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwrmvspark/SDC-reviews-Nginx/issues"
+  },
+  "homepage": "https://github.com/pwrmvspark/SDC-reviews-Nginx#readme"
+}
